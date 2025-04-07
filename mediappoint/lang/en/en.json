@@ -1,0 +1,151 @@
+{
+    "welcome": "Welcome back, Dr. {name}",
+    "dashboard": "Dashboard",
+    "patient": "Patient",
+    "service": "Service",
+    "actions": "Actions",
+    "view": "View",
+    "complete": "Complete",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "save": "Save",
+    "search": "Search",
+    "filter": "Filter",
+    "settings": "Settings",
+    "logout": "Logout",
+    "appointments": {
+        "title": "Appointments",
+        "upcoming": "Upcoming Appointments",
+        "past": "Past Appointments"
+    },
+    "appointment_details": {
+        "title": "Appointment Details",
+        "patient_info": "Patient Information",
+        "service_info": "Service Information",
+        "date_time": "Date & Time",
+        "status": "Status",
+        "notes": "Notes",
+        "add_note": "Add Note",
+        "save_note": "Save Note"
+    },
+    "login": {
+        "title": "Login",
+        "email": "Email",
+        "password": "Password",
+        "remember_me": "Remember Me",
+        "forgot_password": "Forgot Password?",
+        "login_button": "Login"
+    },
+    "register": {
+        "title": "Register",
+        "name": "Name",
+        "email": "Email",
+        "password": "Password",
+        "confirm_password": "Confirm Password",
+        "register_button": "Register"
+    },
+    "reset_password": {
+        "title": "Reset Password",
+        "email": "Email",
+        "send_reset_link": "Send Reset Link"
+    },
+    "dashboard_overview": {
+        "title": "Dashboard Overview",
+        "total_patients": "Total Patients",
+        "total_appointments": "Total Appointments",
+        "upcoming_appointments": "Upcoming Appointments",
+        "completed_appointments": "Completed Appointments",
+        "canceled_appointments": "Canceled Appointments"
+    },
+    
+    "patients": {
+        "title": "Patients",
+        "add_new": "Add New Patient",
+        "search_placeholder": "Search by name or email"
+    },
+    "services": {
+        "title": "Services",
+        "add_new": "Add New Service"
+    },
+    "notifications": {
+        "title": "Notifications",
+        "new_message": "{count} new messages"
+    },
+    "profile": {
+        "title": "{name}'s Profile",
+        "edit_profile": "Edit Profile"
+    },
+    "error": {
+        "not_found": "Page not found",
+        "server_error": "Server error, please try again later",
+        "unauthorized": "Unauthorized access, please login"
+    },
+    "success": {
+        "appointment_created": "Appointment created successfully",
+        "appointment_updated": "Appointment updated successfully",
+        "appointment_deleted": "Appointment deleted successfully",
+        "profile_updated": "Profile updated successfully"
+    },
+    "validation": {
+        "required": "{field} is required",
+        "email": "Invalid email address",
+        "phone": "Invalid phone number",
+        "date": "Invalid date format",
+        "time": "Invalid time format"
+    },
+    "date": {
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "yesterday": "Yesterday",
+        "day_after_tomorrow": "Day after tomorrow",
+        "last_week": "Last week",
+        "next_week": "Next week"
+    },
+    "time": {
+        "morning": "Morning",
+        "afternoon": "Afternoon",
+        "evening": "Evening",
+        "night": "Night"
+    },
+    "months": {
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "may": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+    },
+    "days": {
+        "sunday": "Sunday",
+        "monday": "Monday",
+        "tuesday": "Tuesday",
+        "wednesday": "Wednesday",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "saturday": "Saturday"
+    },
+    "appointment": {
+        "title": "Appointment Details",
+        "patient_name": "Patient Name",
+        "patient_email": "Patient Email",
+        "patient_phone": "Patient Phone",
+        "appointment_date": "Appointment Date",
+        "appointment_time": "Appointment Time",
+        "appointment_status": "Appointment Status",
+        "status": {
+            "scheduled": "Scheduled",
+            "completed": "Completed",
+            "canceled": "Canceled"
+        }
+    }
+}
+
